@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "818186711487",
+    "project_id": "fir-uilogin-2e047",
+    "storage_bucket": "fir-uilogin-2e047.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818186711487:android:87d42027d54f02c5a4f10a",
+        "android_client_info": {
+          "package_name": "br.universidade.projeto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818186711487-s1r9oag17fvfove7834k0tkt68vubp1l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.universidade.projeto",
+            "certificate_hash": "beae1b33e3e98466b561824b31fdadabb19871e7"
+          }
+        },
+        {
+          "client_id": "818186711487-vu9f9g4ele1tnl4h6haf111kksifum6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwRZgNc5NyU9toW6MFgNe44Fj5Z9Gw3xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818186711487-vu9f9g4ele1tnl4h6haf111kksifum6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
